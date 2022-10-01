@@ -46,7 +46,7 @@
             supervised by Prof. <a href="https://aisecure.github.io">Bo Li</a>. <br/>
         </p>
         <p>
-            My research interests are Explainable Artificial Intelligence (XAI) and trustworthy ML.
+            My research interests are Explainable Artificial Intelligence (XAI) and Trustworthy ML.
             <!-- My research vision is to develop practical and scalable language models (LMs), and close the trustworthiness gap, focusing on three interconnected pillars of trustworthy NLP: robustness, privacy, and ethics. -->
         </p>
         </div>
@@ -63,16 +63,16 @@
     <div class="mb-3">
         <h4>News</h4>
         <ul>
-            <li> [2021/10] Our team won ICCV 2021 for Masked Face Recognition Challenge! </li>
+            <li> [2021/10] Our team won <a href="https://insightface.ai/mfr21"> ICCV 2021 for Masked Face Recognition Challenge </a>! </li>
             <li> [2021/5] I am excited to join SenseTime in summer as a research intern.  </li>
-            <li> [2020/7] I am excited to join Siemens Healthcare in summer as a Medical Imaging Deep Learning research intern.  </li>
+            <li> [2020/7] I am excited to join Siemens Healthcare in winter as a Medical Imaging Deep Learning research intern.  </li>
         </ul>
     </div>
 
     <div class="col-sm-9">
         <hr>
     </div>
-    <div class="col-sm-12 row">
+    <!-- <div class="col-sm-12 row"> -->
     <h4> Publications </h4>
     <!-- </div> -->
     <!-- <div class="mb-3">
@@ -101,9 +101,9 @@
     <div class="mb-3">
         <h4>Experiences</h4>
         <ul>
-            <li>[2022/05-Present] <b>SenseTime Research</b>
+            <li>[2021/04-2021/08] <b>SenseTime Research</b>
             </li>
-            <li>[2021/06-2022/05] <b>Seimens Healthcare Mdeical Imaging</b>
+            <li>[2020/09-2022/01] <b>Siemens Healthcare Medical Imaging</b>
             </li>
         </ul>
     </div>
