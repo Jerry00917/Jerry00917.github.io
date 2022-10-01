@@ -37,7 +37,6 @@
         </div>
     <div class="row">
         <div class="col-sm-5">
-<!--            <p style="font-family: 'Kaiti SC', 'Kaiti', 'SimSun',serif">Chinese Name: 汪博欣 </p>-->
         <p>
             Mathematics <br/>
             Computer Science <br/>
@@ -45,12 +44,10 @@
         </p>
         <p>
             Contact: <a href="mailto:aosun3@illinois.edu">aosun3@illinois.edu</a> <br/>
-            <!-- [<a href="https://scholar.google.com/citations?user=YOf2ATIAAAAJ&hl=en">Google Scholar</a>] -->
-            <!-- [<a href="https://www.linkedin.com/in/ao-s-6bb42b137/">GitHub</a>] -->
             [<a href="https://www.linkedin.com/in/ao-s-6bb42b137/">Linkedln</a>]
         </p>
         <p>
-            I am a Seninor Undergraduate Math major and minor in CS at University of Illinois, Urbana-Champaign (UIUC).
+            I am a Senior Undergraduate Student major in Math and minor in CS at University of Illinois, Urbana-Champaign (UIUC).
             I work as a research assistant in <a href="https://aisecure.github.io/GROUP/">Secure Learning Lab</a>
             supervised by Prof. <a href="https://aisecure.github.io">Bo Li</a>. <br/>
         </p>
@@ -83,221 +80,8 @@
     </div>
     <div class="col-sm-12 row">
     <h4> Publications </h4>
-    </div>
-    <div class="mb-3">
-        <div class="col-sm-12 row">
-            <h5> 2022 </h5>
-        </div>
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> Exploring the Limits of Domain-Adaptive Training for Detoxifying Large-Scale Language Models </strong>
-                        <small class="text-muted"> NeurIPS 2022 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> <b>Boxin Wang</b>, Wei Ping, Chaowei Xiao, Peng Xu, Mostofa Patwary, Mohammad Shoeybi, Bo Li, Anima Anandkumar, Bryan Catanzaro
-                        </i>
-                        [<a href="https://arxiv.org/abs/2202.04173">PDF</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> Improving Certified Robustness via Statistical Learning with Logical Reasoning </strong>
-                        <small class="text-muted"> NeurIPS 2022 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> Zhuolin Yang, Zhikuan Zhao, <b>Boxin Wang</b>, Jiawei Zhang, Linyi Li, Hengzhi Pei, Bojan Karlaš, Ji Liu, Heng Guo, Ce Zhang, Bo Li
-                        </i>
-                        [<a href="https://arxiv.org/abs/2003.00120">PDF</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> SemAttack: Natural Textual Attacks via Different Semantic Spaces </strong>
-                        <small class="text-muted"> NAACL 2022 (Findings) </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> <b>Boxin Wang*</b>, Chejian Xu*, Xiangyu Liu, Yu Cheng, Bo Li</i>
-                        [<a href="https://arxiv.org/abs/2205.01287">PDF</a>]
-                        [<a href="https://github.com/AI-secure/SemAttack">Code</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> Certifying Out-of-Domain Generalization for Blackbox Functions </strong>
-                        <small class="text-muted"> ICML 2022 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> Maurice Weber, Linyi Li, <b>Boxin Wang</b>, Zhikuan Zhao, Bo Li, Ce Zhang</i>
-                        [<a href="https://arxiv.org/abs/2202.01679">PDF</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="mb-3">
-        <div class="col-sm-12 row">
-            <h5> 2021 </h5>
-        </div>
-
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong>  Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models </strong>
-                        <small class="text-muted"> NeurIPS 2021 (Oral) </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> <b>Boxin Wang*</b>, Chejian Xu*, Shuohang Wang, Zhe Gan, Yu Cheng, Jianfeng Gao, Ahmed Hassan Awadallah, Bo Li</i>
-                        [<a href="https://openreview.net/pdf?id=GF9cSKI3A_q">PDF</a>]
-                        [<a href="https://adversarialglue.github.io/">Dataset</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> G-PATE: Scalable Differentially Private Data Generator via Private Aggregation <br> of Teacher Discriminators </strong>
-                        <small class="text-muted"> NeurIPS 2021 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i>Yunhui Long*, <b>Boxin Wang*</b>, Zhuolin Yang, Bhavya Kailkhura, Aston Zhang, Carl A. Gunter, Bo Li</i>
-                        [<a href="https://papers.nips.cc/paper/2021/hash/171ae1bbb81475eb96287dd78565b38b-Abstract.html">PDF</a>]
-                        [<a href="https://github.com/AI-secure/G-PATE">Code</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong>  DataLens: Scalable Privacy Preserving Training via Gradient Compression and Aggregation  </strong>
-                        <small class="text-muted"> CCS 2021 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> <b>Boxin Wang*</b>, Fan Wu*, Yunhui Long*, Luka Rimanic, Ce Zhang, Bo Li</i>
-                        [<a href="https://arxiv.org/pdf/2103.11109.pdf">PDF</a>]
-                        [<a href="https://github.com/AI-secure/DataLens">Code</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> Uncovering the Connections Between Adversarial Transferability and Knowledge Transferability </strong>
-                        <small class="text-muted"> ICML 2021 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> Kaizhao Liang*, Jacky Zhang*, <b>Boxin Wang</b>, Zhuolin Yang, Sanmi Koyejo, Bo Li</i>
-                        [<a href="https://arxiv.org/pdf/2006.14512.pdf">PDF</a>]
-                        [<a href="https://github.com/AI-secure/Uncovering-the-Connections-BetweenAdversarial-Transferability-and-Knowledge-Transferability">Code</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> Counterfactual Adversarial Learning with Representation Interpolation  </strong>
-                        <small class="text-muted"> EMNLP 2021 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> Wei Wang, <b>Boxin Wang</b>, Ning Shi, Jinfeng Li, Bingyu Zhu, Xiangyu Liu, Rong Zhang</i>
-                        [<a href="https://arxiv.org/pdf/2109.04746.pdf">PDF</a>]
-                        [<a href="https://github.com/ShiningLab/CAT">Code</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> Incorporating External POS Tagger for Punctuation Restoration  </strong>
-                        <small class="text-muted"> Interspeech 2021 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> Ning Shi, Wei Wang, <b>Boxin Wang</b>, Jinfeng Li, Xiangyu Liu, Zhouhan Lin</i>
-                        [<a href="https://arxiv.org/pdf/2106.06731.pdf">PDF</a>][<a href="https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration">Code</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective  </strong>
-                        <small class="text-muted"> ICLR 2021 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> <b>Boxin Wang</b>, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu</i>
-                        [<a href="https://openreview.net/forum?id=hpH98mK5Puk">PDF</a>][<a href="https://github.com/AI-secure/InfoBERT">Code</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="mb-3">
-        <div class="col-sm-12 row">
-            <h5> 2020 </h5>
-        </div>
-        <div class="col-sm-10">
-            <div class="list-group">
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong> T3: Tree-Autoencoder Regularized Adversarial Text Generation for Targeted Attack </strong>
-                        <small class="text-muted"> EMNLP 2020 </small>
-                    </div>
-                    <small class="mb-1">
-                        <i> <b>Boxin Wang</b>, Hengzhi Pei, Boyuan Pan, Qian Chen, Shuohang Wang and Bo Li</i>
-                        [<a href="https://arxiv.org/pdf/1912.10375.pdf">PDF</a>][<a href="https://github.com/AI-secure/T3/">Code</a>]
-                    </small>
-                </div>
-
-                <div class="list-group-item">
-                    <div class="d-flex w-100 justify-content-between">
-                        <strong>
-                            Reinforcement-Learning based Portfolio Management with Augmented Asset Movement <br> Prediction States </strong>
-                        <small class="text-muted"> AAAI 2020</small>
-                    </div>
-                    <small class="mb-1">
-                        <i> Yunan Ye, Hengzhi Pei, <b>Boxin Wang</b>, Pin-Yu Chen, Yada Zhu, Jun Xiao, Bo Li</i>
-                        [<a href="https://arxiv.org/abs/2002.05780">PDF</a>]
-                    </small>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="mb-3">
+    <!-- </div> -->
+    <!-- <div class="mb-3">
         <div class="col-sm-12 row">
             <h5> 2019 </h5>
         </div>
@@ -314,64 +98,24 @@
                 </small>
             </div>
 
-            <div class="list-group-item">
-                <div class="d-flex w-100 justify-content-between">
-                    <strong> Towards efficient data valuation based on the shapley value </strong>
-                    <small class="text-muted"> AISTATS 2019</small>
-                </div>
-                <small class="mb-1">
-                    <i>Ruoxi Jia*, David Dao*, <b>Boxin Wang</b>, Frances Ann Hubis, Nick Hynes, Nezihe Merve Gürel, Bo Li, Ce Zhang, Dawn Song, Costas J. Spanos</i>
-                    &nbsp; [<a href="https://arxiv.org/pdf/1902.10275.pdf">PDF</a>]
-                </small>
-            </div>
         </div>
-        </div>
-    </div>
+        </div> -->
+    <!-- </div> -->
     <div class="col-sm-9">
         <hr>
     </div>
     <div class="mb-3">
         <h4>Experiences</h4>
         <ul>
-            <li>[2022/05-Present] <b>Google Research</b>
-                <ul>
-                    <li>Research Intern, advised by <a href="https://research.google/people/106689/">Dr. Zheng Xu</a>, <a href="https://scholar.google.com/citations?user=Q82vvqcAAAAJ&hl=en/">Dr. Yuan Cao</a>,  and <a href="https://research.google/people/ManzilZaheer/">Dr. Manzil Zaheer</a> </li>
-                </ul>
+            <li>[2022/05-Present] <b>SenseTime Research</b>
             </li>
-            <li>[2021/06-2022/05] <b>NVIDIA Research</b>
-                <ul>
-                    <li>Research Intern, advised by <a href="https://wpingnet.github.io/">Dr. Wei Ping</a>, <a href="https://scholar.google.com/citations?user=62ElavIAAAAJ&hl=en">Dr. Mohammad Shoeybi</a>, <a href="http://www-personal.umich.edu/~xiaocw/">Prof. Chaowei Xiao</a> and <a href="http://tensorlab.cms.caltech.edu/users/anima/">Prof. Anima Anandkumar</a> </li>
-                </ul>
-            </li>
-            <li>[2021/01-2021/05] <b>Alibaba Group</b>
-                <ul>
-                    <li>Research Intern, in AI Security Team</li>
-                </ul>
-            </li>
-            <li>[2020/05-2020/12] <b>Microsoft Research, Redmond</b>
-                <ul>
-                    <li>Research Intern, advised by <a href="https://sites.google.com/site/shuohangsite/">Dr. Shuohang Wang</a>, <a href="https://zhegan27.github.io/">Dr. Zhe Gan</a> and <a href="https://sites.google.com/site/chengyu05">Dr. Yu Cheng</a> </li>
-                </ul>
-            </li>
-            <li>[2019/07-2019/08] <b> Wechat Group, Tencent</b>
-                <ul>
-                    <li>Research Intern, advised by <a href="https://aisecure.github.io/">Prof. Bo Li</a> and Qian Chen </li>
-                </ul>
-            </li>
-            <li>[2018/05-2018/08] <b> Alibaba Group </b>
-                <ul>
-                    <li> Software Engineer Intern, in <a href="https://www.alibabacloud.com/product/drds">Distributed Relational Database Team</a> </li>
-                </ul>
+            <li>[2021/06-2022/05] <b>Seimens Healthcare Mdeical Imaging</b>
             </li>
         </ul>
     </div>
     <div class="col-sm-9">
         <hr>
     </div>
-    <!-- <div class="mb-3">
-        <h4>Personal</h4>
-        <p> I like photographing. I put my photos on <a href="https://500px.com/boxinwang">500px</a>. </p>
-    </div> -->
 </div>
 
 <div class="container text-center">
