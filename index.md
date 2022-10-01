@@ -7,7 +7,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <meta name="description" content="Computer Science Ph.D. student, at University of Illinois, Urbana-Champaign.">
-    <title>Boxin Wang - Homepage</title>
+    <title>Ao Sun - Homepage</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -27,43 +27,42 @@
 <body>
 <div class="container">
         <div class="row mt-4 ml-0">
-            <h2>Boxin Wang</h2>
+            <h2>Ao Sun</h2>
             <figure>
                 <img
-                        src="wbx.png"
+                        src="aosun.jpeg"
                         style="width:20%; float:left"
-                        alt="汪博欣">
+                        alt="孙奥">
             </figure>
         </div>
     <div class="row">
         <div class="col-sm-5">
 <!--            <p style="font-family: 'Kaiti SC', 'Kaiti', 'SimSun',serif">Chinese Name: 汪博欣 </p>-->
         <p>
-            Ph.D. student <br/>
+            Mathematics <br/>
             Computer Science <br/>
             University of Illinois at Urbana-Champaign
         </p>
         <p>
-            Contact: <a href="mailto:boxinw2@illinois.edu">boxinw2@illinois.edu</a> <br/>
-            [<a href="https://scholar.google.com/citations?user=YOf2ATIAAAAJ&hl=en">Google Scholar</a>]
-<!--            [<a href="https://wbx.life/Boxin_Wang_CV.pdf">CV</a>]-->
-            [<a href="https://github.com/qweer28">GitHub</a>]
-            [<a href="https://www.linkedin.com/in/boxin-wang/">Linkedln</a>]
+            Contact: <a href="mailto:aosun3@illinois.edu">aosun3@illinois.edu</a> <br/>
+            <!-- [<a href="https://scholar.google.com/citations?user=YOf2ATIAAAAJ&hl=en">Google Scholar</a>] -->
+            <!-- [<a href="https://www.linkedin.com/in/ao-s-6bb42b137/">GitHub</a>] -->
+            [<a href="https://www.linkedin.com/in/ao-s-6bb42b137/">Linkedln</a>]
         </p>
         <p>
-            I am a fourth year Computer Science Ph.D. candidate at University of Illinois, Urbana-Champaign (UIUC).
+            I am a Seninor Undergraduate Math major and minor in CS at University of Illinois, Urbana-Champaign (UIUC).
             I work as a research assistant in <a href="https://aisecure.github.io/GROUP/">Secure Learning Lab</a>
             supervised by Prof. <a href="https://aisecure.github.io">Bo Li</a>. <br/>
         </p>
         <p>
-            My research interests are trustworthy machine learning (ML) and natural language processing (NLP).
-            My research vision is to develop practical and scalable language models (LMs), and close the trustworthiness gap, focusing on three interconnected pillars of trustworthy NLP: robustness, privacy, and ethics.
+            My research interests are Explainable Artificial Intelligence (XAI) and trustworthy ML.
+            <!-- My research vision is to develop practical and scalable language models (LMs), and close the trustworthiness gap, focusing on three interconnected pillars of trustworthy NLP: robustness, privacy, and ethics. -->
         </p>
         </div>
         <div class="col-sm-1">
         </div>
         <div class="col-sm-4">
-            <img src="photo.jpg" class="img-fluid" alt="Boxin Wang" width="300">
+            <img src="photo.jpg" class="img-fluid" alt="Ao Sun" width="300">
         </div>
     </div>
 
@@ -73,20 +72,9 @@
     <div class="mb-3">
         <h4>News</h4>
         <ul>
-            <li> [2022/09] Two papers got accepted to NeurIPS 2022.  </li>
-            <li> [2022/05] I am excited to join Google Research in summer as a research intern. Look forward to seeing you in the Bay Area!  </li>
-            <li> [2022/05] One paper got accepted to Findings of NAACL 2022. </li>
-            <li> [2021/11] I passed the qualifying exam and officially became a Ph.D. candidate 🎉. </li>
-            <li> [2021/10] Two papers got accepted to NeurIPS 2021. </li>
-            <li> [2021/10] One paper got accepted to EMNLP 2021. </li>
-            <li> [2021/6] I am excited to join NVIDIA in summer as a research intern.  </li>
-            <li> [2021/5] One paper got accepted to ICML 2021. </li>
-            <li> [2021/5] One paper got accepted to ACM CCS 2021. </li>
-            <li> [2021/3] I am so honored to receive the Yunni & Maxine Pao Memorial Fellowship for 2021-2022 academic year. </li>
-<!--            <li> [2021/1] One paper got accepted to ICLR 2021. </li>-->
-<!--            <li> [2020/9] One paper got accepted to EMNLP 2020. </li>-->
-<!--            <li> [2020/8] I am invited to serve as a PC member for AAAI-21. </li>-->
-<!--            <li> [2020/5] I am excited to join Microsoft Research in summer as a research intern. Look forward to seeing you in Seattle! </li>-->
+            <li> [2021/10] Our team won ICCV 2021 for Masked Face Recognition Challenge! </li>
+            <li> [2021/5] I am excited to join SenseTime in summer as a research intern.  </li>
+            <li> [2020/7] I am excited to join Siemens Healthcare in summer as a Medical Imaging Deep Learning research intern.  </li>
         </ul>
     </div>
 
@@ -380,17 +368,17 @@
     <div class="col-sm-9">
         <hr>
     </div>
-    <div class="mb-3">
+    <!-- <div class="mb-3">
         <h4>Personal</h4>
         <p> I like photographing. I put my photos on <a href="https://500px.com/boxinwang">500px</a>. </p>
-    </div>
+    </div> -->
 </div>
 
 <div class="container text-center">
     <footer>
         <!--<div  class="floating">-->
         <br>
-        <span class="copyright"> Copyright © Boxin Wang, Sep. 2022 </span> <br>
+        <span class="copyright"> Copyright © Ao Sun, Sep. 2022 </span> <br>
         <!--</div>-->
     </footer>
 </div>
