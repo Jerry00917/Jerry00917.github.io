@@ -28,12 +28,6 @@
 <div class="container">
         <div class="row mt-4 ml-0">
             <h2>Ao Sun</h2>
-            <figure>
-                <img
-                        src="aosun.jpeg"
-                        style="width:20%; float:left"
-                        alt="孙奥">
-            </figure>
         </div>
     <div class="row">
         <div class="col-sm-5">
@@ -59,7 +53,7 @@
         <div class="col-sm-1">
         </div>
         <div class="col-sm-4">
-            <img src="photo.jpg" class="img-fluid" alt="Ao Sun" width="300">
+            <img src="aosun.jpeg" class="img-fluid" alt="Ao Sun" width="300">
         </div>
     </div>
 
